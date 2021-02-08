@@ -1,0 +1,116 @@
+
+
+
+
+.form {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  .proc{
+      position: absolute;
+      margin-top: 100px;
+  }
+  .reg{
+      position: absolute;
+      margin-left: 550px;
+      white-space:nowrap;
+  }
+  .pname{
+      position: absolute;
+      margin-left: 500px;
+      margin-top: 150px;
+  }
+  .pname{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 150px;
+    white-space: nowrap;
+    
+}
+.input_pname{
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 500px;
+
+}
+
+.chila{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 235px;
+    white-space: nowrap;
+    
+}
+.inputchila{
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 500px;
+}
+.pemail{
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 500px;
+    white-space: nowrap;
+}
+.input_pmail{
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 500px;
+}
+.pmobile{
+    position: absolute;
+    margin-top: 385px;
+    margin-left: 500px;
+    white-space: nowrap;
+}
+.input_pmobile{
+    position: absolute;
+    margin-top: 410px;
+    margin-left: 500px;
+}
+.cl_time{
+position: absolute;
+margin-left: 500px;
+margin-top: 460px;
+white-space: nowrap;
+}
+
+.input_cl{
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 500px;
+}
+.payfee{
+    margin-top: -120px;
+    position: absolute;
+    margin-left: -200px;
+}
+.payreg{
+    position: absolute;
+    margin-top: -120px;
+    margin-left: -20px;
+}
+
+.i_pn{
+height: 40px;
+width: 340px;
+}
+.i_ca{
+    height: 40px;
+    width: 340px;
+}
+.i_pe{
+    height: 40px;
+    width: 340px;
+}
+.i_pm{
+    height: 40px;
+    width: 340px;
+}
+.i_pt{
+    height: 40px;
+    width: 340px;
+}

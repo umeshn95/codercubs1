@@ -1,0 +1,24 @@
+
+  
+  
+.app_btn{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top:-60px;
+}
+.btn_app{
+height: 35px;
+width: 160px;
+background-color: rgb(204, 121, 121);
+border-color: rgb(131, 197, 131);
+border-radius: 7%;
+}
+
+.btn_app:hover{
+    background-color: rgb(213, 105, 105);
+}
+
+/* .app_info{
+    position: relative;
+    margin-top: 200px;
+} */

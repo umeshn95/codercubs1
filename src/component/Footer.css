@@ -1,0 +1,105 @@
+.footer{
+    background-color: #ff5d6c;
+    height: 300px;
+    width: 100%;
+    position: absolute;
+    margin-top: 50px;
+}
+.home1{
+position: absolute;
+color: white;
+ margin-top: 100px;
+ z-index: 5;
+ margin-left: 400px;
+ font-size: 22px;
+    font-family: 'Antic Slab', serif;
+}
+.how{
+    position: absolute;
+    color: white;
+    margin-top: 140px;
+    margin-left: 400px;
+    font-size: 16px;
+}
+.why{
+    position: absolute;
+    color: white;
+    margin-top: 160px;
+    margin-left: 400px;
+    font-size: 16px;
+}
+.review{
+    position: absolute;
+    color: white;
+    margin-top: 180px;
+    margin-left: 400px;
+    font-size: 16px;
+}
+.about{
+    position: absolute;
+color: white;
+ margin-top: 100px;
+ z-index: 5;
+ margin-left: 700px;
+ font-size: 22px;
+    font-family: 'Antic Slab', serif;
+}
+.teac{
+    position: absolute;
+    color: white;
+    margin-top: 140px;
+    margin-left: 700px;
+    font-size: 16px;
+}
+.team{
+    position: absolute;
+    color: white;
+    margin-top: 160px;
+    margin-left: 700px;
+    font-size: 16px;  
+}
+.contact1{
+    position: absolute;
+    color: white;
+    margin-top: 180px;
+    margin-left: 700px;
+    font-size: 16px;  
+}
+.location{
+    position: absolute;
+    color: white;
+     margin-top: 100px;
+     z-index: 5;
+     margin-left: 1300px;
+     font-size: 22px;
+        font-family: 'Antic Slab', serif;
+}
+.location1{
+    position: absolute;
+    color: white;
+    margin-top: 150px;
+    margin-left: 1300px;
+    font-size: 16px;  
+}
+.location2{
+    position: absolute;
+    color: white;
+    margin-top: 190px;
+    margin-left: 1300px;
+    font-size: 16px;  
+}
+.mobile{
+    position: absolute;
+    color: white;
+    margin-top: 187px;
+    margin-left: 1330px;
+    font-size: 16px;    
+}
+.right{
+    position: absolute;
+    color: white;
+    margin-top: 300px;
+    margin-left: 30px;
+    font-size: 16px;
+
+}

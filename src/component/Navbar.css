@@ -1,0 +1,498 @@
+.navbar{
+
+background-color: white;
+
+
+}
+.newnavbar{
+    background-color: white;
+position:fixed;
+height: 80px;
+width: 1600px;
+z-index: 3;
+
+}
+
+.logo{
+    position: absolute;
+    margin-top: 24px;
+    margin-left: 220px;
+    z-index: 4;
+    position: fixed;
+}
+
+
+
+.codercubs{
+    z-index: 4;
+    color: black;
+    position: absolute;
+    font-size:40px;
+    margin-left: 10px;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 16px;
+    position: fixed;
+}
+
+
+.tooltip {
+    position: absolute;
+    display: inline-block;
+    margin-top: 25px;
+    z-index: 5;
+    color: black;
+    margin-left: -90px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    position: fixed!important;
+    font-weight: bold;
+    
+  }
+  
+
+  .tooltip1{
+    position: absolute;
+    display: inline-block;
+    margin-top: 25px;
+    z-index: 5;
+    color: black;
+    margin-left: -90px;font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    position: fixed!important;
+    font-weight: bold;
+    
+  }
+ 
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 280px;
+    background-color: white;
+    color:  #ff5e78;
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px 15px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .tooltip1 .tooltiptext {
+    visibility: hidden;
+    width: 280px;
+    background-color: white;
+    color:  #ff5e78;
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px 15px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+
+
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+  
+  .tooltip1:hover .tooltiptext {
+    visibility: visible;
+  }
+  
+ 
+.abouttooltip {
+    position: absolute;
+    display: inline-block;
+    margin-top: 25px;
+    z-index: 5;
+    color: black;
+    margin-left: -180px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    position: fixed!important;
+font-weight: bold;
+    
+  }
+  
+
+ 
+  
+  .abouttooltip .tooltiptext1 {
+    visibility: hidden;
+    width: 180px;
+    background-color: white;
+    color: #ff5e78;
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px 15px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .abouttooltip:hover .tooltiptext1 {
+    visibility: visible;
+  }
+  
+  .abouttooltip1 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 25px;
+    z-index: 5;
+    color: black;
+    margin-left: -180px;font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    position: fixed!important;
+    font-weight: bold;
+  }
+  
+
+ 
+  
+  .abouttooltip1 .tooltiptext1 {
+    visibility: hidden;
+    width: 180px;
+    background-color: white;
+    color: #ff5e78;
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px 15px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .abouttooltip1:hover .tooltiptext1 {
+    visibility: visible;
+  }
+  
+
+
+
+
+
+
+  .mentortooltip {
+    position: absolute;
+    display: inline-block;
+    margin-top: 25px;
+    z-index: 5;
+    color: black;
+    margin-left: -320px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    position: fixed!important;
+    font-weight: bold;
+    
+  }
+  
+
+ 
+  
+  .mentortooltip .tooltiptext2 {
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #ff5e78;
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px 15px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .mentortooltip:hover .tooltiptext2 {
+    visibility: visible;
+  }
+  .mentortooltip1 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 25px;
+    z-index: 5;
+    color: black;
+    margin-left: -320px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    position: fixed!important;
+    font-weight: bold;
+    
+  }
+  
+  .mentortooltip1 .tooltiptext2 {
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #ff5e78;
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px 15px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .mentortooltip1:hover .tooltiptext2 {
+    visibility: visible;
+  }
+  
+  .hometooltip {
+    position: absolute;
+    display: inline-block;
+    margin-top: 25px;
+    z-index: 5;
+    color: black;
+    margin-left: -410px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    position: fixed!important;
+    font-weight: bold;
+  }
+  
+
+ 
+  
+  .hometooltip .tooltiptext2 {
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #ff5e78;
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px 15px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .hometooltip:hover .tooltiptext2 {
+    visibility: visible;
+  }
+
+  
+
+   
+  .hometooltip1 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 25px;
+    z-index: 5;
+    color: black;
+    margin-left: -410px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    position: fixed!important;
+    font-weight: bold;
+  }
+  
+
+ 
+  
+  .hometooltip1 .tooltiptext2 {
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #ff5e78;
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px 15px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .hometooltip1:hover .tooltiptext2 {
+    visibility: visible;
+  }
+  
+
+  .contacttooltip {
+    position: absolute;
+    display: inline-block;
+    margin-top: 25px;
+    z-index: 5;
+    color: black;
+    margin-left: 0px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 19px;
+    position: fixed!important;
+    font-weight: bold;
+    
+  }
+  
+
+ 
+  
+  .contacttooltip .tooltiptext2 {
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #ff5e78;
+    text-align: center;
+    border-radius: 3px;
+    padding: 15px 15px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .contacttooltip:hover .tooltiptext2 {
+    visibility: visible;
+  }
+  
+
+  .contacttooltip1 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 25px;
+    z-index: 5;
+    color: black;
+    margin-left: 0px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    position: fixed!important;
+    font-weight: bold;
+    
+  }
+  
+
+ 
+  
+  .contacttooltip1 .tooltiptext2 {
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #ff5e78;
+    text-align: center;
+    border-radius: 3px;
+    padding: 15px 15px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .contacttooltip1:hover .tooltiptext2 {
+    visibility: visible;
+  }
+  
+
+.scratch_color{
+  color: #54e346;
+}
+.career_color{
+  color: #1E62D0;
+}
+.region{
+  
+  width: 50px;
+  z-index: 6;
+  margin-left: 1100px;
+}
+.region1{
+  position: relative;
+  margin-top: 15px;
+  z-index: 6;
+  margin-left: 0px;
+  width: 50px;
+  display: inline-block;
+}
+.C_color{
+  position: absolute;
+  color: #ff5e78;
+  font-size: 70px;
+  margin-top: -35px;
+}
+.o_color{
+  position: absolute;
+  color: #54e346;
+  font-size: 70px;
+  margin-top: -40px;
+  margin-left: 40px;
+}
+.d_color{
+  position: absolute;
+  color: #1E62D0;
+  font-size: 70px;
+  margin-top: -40px;
+  margin-left: 72px;
+}
+.e_color{
+  position: absolute;
+  color: #f88f01;
+  font-size: 70px;
+  margin-top: -40px;
+  margin-left: 108px;
+}
+.r_color{
+  position: absolute;
+  color: #949cdf;
+  font-size: 70px; margin-top: -40px;
+  margin-left: 143px;
+}
+.c_color{
+  position: absolute;
+  color: #00303f;
+  font-size: 70px;
+  margin-top: -40px;
+  margin-left: 173px;
+}
+.u_color{
+  position: absolute;
+  color: #16c79a;
+  font-size: 70px;
+  margin-top: -40px;
+  margin-left: 205px;
+}
+.b_color{
+  position: absolute;
+  color: #c70039;
+  font-size: 70px; margin-top: -40px;
+  margin-left: 240px;
+}
+.s_color{
+  position: absolute;
+  color: #1E62D0;
+  font-size: 70px;
+  margin-top: -40px;
+  margin-left: 280px;
+}

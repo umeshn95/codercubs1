@@ -1,0 +1,141 @@
+.course_basic13{
+    position: absolute;
+    margin-top: 1385px;
+    width: 400px;
+    height: 800px;
+    background-color: white;
+    border-radius: 10%;
+   z-index: 4;
+    
+}
+.basic_plan13{
+    color: #ff5e78;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    margin-left: -220px;
+    margin-top: 30px;
+    font-size: 16px;
+}
+.funda_plan13{
+    color: #54e346;
+    
+    font-family: 'Raleway', sans-serif;
+    margin-left: -10px;
+    margin-top: -10px;
+    font-size: 25px;
+}
+.topic_covered13{
+    color: #1E62D0;
+    
+    font-family: 'Raleway', sans-serif;
+    margin-left: -150px;
+    margin-top: 70px;
+    font-size: 15px;
+}
+.topic_covered13{
+    color: #1E62D0;
+    
+    font-family: 'Raleway', sans-serif;
+    margin-left: -150px;
+    margin-top: 70px;
+    font-size: 17px;
+}
+.topic_exp13{
+
+    font-family: 'Raleway', sans-serif;
+    margin-left: 28px;
+    margin-top: -12px;
+    font-size: 15px;
+    font-weight: lighter;
+    font-size: 15px;
+
+}
+
+.tool_use13{
+
+    color: #1E62D0;
+    
+    font-family: 'Raleway', sans-serif;
+    margin-left: -170px;
+    margin-top: 50px;
+    font-size: 17px;
+
+}
+
+.scratch_course13{
+    margin-left: -220px;
+    
+}
+.border_scratch13{
+    border-radius: 50%;
+}
+.scratch_prog13{
+    font-family: 'Raleway', sans-serif;
+    margin-left: -128px;
+    margin-top: -45px;
+    font-size: 15px;
+    font-weight: lighter;
+    font-size: 15px;
+}
+.code_org13{
+    margin-top: -40px;
+margin-left: 50px;
+}
+.codeorg_logo13{
+    border-radius: 50%;
+}
+.codeorg13{
+    margin-top: -52px;
+    margin-left: 180px;
+}
+.projects13{
+    color: #1E62D0;
+    
+    font-family: 'Raleway', sans-serif;
+    margin-left: -180px;
+    margin-top: 140px;
+    font-size: 17px;
+ 
+}
+.project_plan13{
+     font-family: 'Raleway', sans-serif;
+    margin-left: -128px;
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.course_money13{
+    font-family: 'Raleway', sans-serif;
+    
+    margin-top: 70px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.ruppe_sign13{
+    height: 30px;
+    font-weight: lighter;
+
+}
+.rpe13{
+    margin-top: -70px;
+    margin-left: -120px;
+}
+.r_s13{
+    height: 15px;
+}
+.btn_join13{
+    height: 50px;
+    width: 300px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    background-color: #54e346;
+    font-size: 18px;
+    color: white;
+
+}
+.btn_join13:hover{
+    box-shadow: 0 0 0 2px #54e346;
+}
